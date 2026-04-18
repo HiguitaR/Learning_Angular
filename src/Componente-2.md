@@ -1,7 +1,7 @@
     Componentes:
 
     En angular los componentes son los bloques de construccion principal desde la aplicacion.
-    los componentes son autonomos, es explicito sobre sus dependencias ose todo lo que necesita
+    los componentes son autonomos, es explicito sobre sus dependencias osea todo lo que necesita
     este componente lo importa explicitamente al componente.
 
     Para consultar todos los componentes del CLI de angular vamos ala pagina web angular.dev y 
